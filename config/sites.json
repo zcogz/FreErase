@@ -1,0 +1,7 @@
+{
+    "targets": [
+        "https://www.spokeo.com/",
+        "https://www.whitepages.com/",
+        "https://haveibeenpwned.com/"
+    ]
+}
